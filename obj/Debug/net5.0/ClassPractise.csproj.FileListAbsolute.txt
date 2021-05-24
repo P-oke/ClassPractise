@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.exe
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.deps.json
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.runtimeconfig.json
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.dll
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ref\ClassPractise.dll
+C:\Users\Hp\Desktop\ClassPractise\bin\Debug\net5.0\ClassPractise.pdb
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.dll
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ref\ClassPractise.dll
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.pdb
+C:\Users\Hp\Desktop\ClassPractise\obj\Debug\net5.0\ClassPractise.genruntimeconfig.cache
